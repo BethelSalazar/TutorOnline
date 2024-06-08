@@ -93,3 +93,6 @@ Vista de Servicios (Clases)
 4.- Comprar una Clase: En la sección de Servicios, haz clic en "Comprar" en cualquier clase para abrir el formulario de compra. Completa los datos y envía el formulario.
 
 
+# Enlace funcional del Vercel
+https://tutor-online-seven.vercel.app/
+
