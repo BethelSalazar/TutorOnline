@@ -36,8 +36,8 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
 Sigue estos pasos para clonar y configurar el proyecto en tu máquina local.
 
 1.- Clona el repositorio:
-git clone https://github.com/BethelSalazar/Project-R.git
-cd Project-R
+git clone https://github.com/BethelSalazar/TutorOnline.git
+cd TutorOnline
 2.- Instala las dependencias del proyecto: npm install
 3.- Ejecución del Proyecto Para iniciar el servidor de desarrollo, utiliza el siguiente comando: npm run dev El proyecto estará disponible en http://localhost:5173.
 
@@ -48,6 +48,7 @@ Pruebas Incluidas
 - Simulación de eventos de usuario: Simula un evento de usuario, como un clic para el envío del formulario, y verifica el comportamiento resultante. Ejemplo de Uso Navega a través de la aplicación utilizando la barra de navegación. Puedes comprar clases completando el formulario de compra.
 
 # Descripción del proyecto (estructura y uso del proyecto)
+```
 src/
 ├── components/
 │   ├── Body/
@@ -66,6 +67,8 @@ src/
 │   └── Clase.test.jsx
 ├── App.jsx
 └── main.jsx
+```
+
 ![alt text](image-7.png)
 # Uso del Proyecto
 Este proyecto proporciona una plataforma de tutoría en línea con las siguientes características:
